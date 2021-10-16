@@ -7,9 +7,9 @@
 
     --borderColor:#c1c1c1;
 
-    --mainText:rgb(255, 0, 0);
-    --primaryText: green;
-    --secondaryText: blue;
+    --mainText:rgb(0, 255, 0);
+    --primaryText: rgb(255, 0, 0);
+    --secondaryText: rgb(0, 0, 255);
 
     --btnColor:#fbff00;
     --btnText: white;
