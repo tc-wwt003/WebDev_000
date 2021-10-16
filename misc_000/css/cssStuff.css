@@ -1,19 +1,19 @@
-:root 
-{
+:root {
     /*set css variable(s)*/
+/* Colors */
     --mainColor:black;
     --primaryColor: blue;
     --secondaryColor:#fff;
 
     --borderColor:#c1c1c1;
 
-    --mainText:rgb(255, 0, 0);
+/* Text Colors */
+    --mainText:whitesmoke;
     --primaryText: white;
-    --secondaryText: blue;
+    --secondaryText:#4b5156;
 
-    --btnColor:#fbff00;
-    --btnText: white;
-
+/*     */
+    --buttonColor:black;
 }
 
 */*,
@@ -21,18 +21,16 @@
 *::after*/
 {
     background-color: var(--mainColor);
-    /*color: var(--mainText);*/
+    color: var(--mainText);
     /*box-sizing: border-box;*/
-    
+
 }
-
-
 
 html 
 {
    padding: 0;
    margin: 0;
-   /*color: var(--mainText);*/
+   color: var(--mainText);
    scroll-behavior: smooth;
 
 }
@@ -43,22 +41,4 @@ body
     margin: 0;
     color: var(--mainText);
 
-}
-
-.title {
-    font-size: 6rem;
-
-}
-
-.subtitle {
-    font-size: 4rem;
-
-}
-
-/* CSS Media Query */
-@media (max-width: 500px) {
-    body {
-        color: var(--secondaryText);
-
-    }    
 }
