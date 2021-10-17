@@ -2,17 +2,21 @@
 {
     /*set css variable(s)*/
     --mainColor:black;
+
     --primaryColor: blue;
-    --secondaryColor:#fff;
+    --secondaryColor: grey;
+    --tertiaryColor: white;
+
+    --mainText:rgb(0, 255, 0);
+
+    --primaryText: rgb(255, 0, 0);
+    --secondaryText: rgb(0, 0, 255);
+    --tertiaryColor: white;
 
     --borderColor:#c1c1c1;
 
-    --mainText:rgb(255, 0, 0);
-    --primaryText: white;
-    --secondaryText: blue;
-
-    --btnColor:#fbff00;
-    --btnText: white;
+    --btnColor: grey;
+    --btnText: yellow;
 
 }
 
@@ -26,8 +30,6 @@
     
 }
 
-
-
 html 
 {
    padding: 0;
@@ -39,26 +41,14 @@ html
 
 body 
 {
-    /*padding: 0;
-    margin: 0;*/
+    padding: 0;
+    margin: 0;
     color: var(--mainText);
 
 }
 
-.title {
-    font-size: 6rem;
-
-}
-
-.subtitle {
-    font-size: 4rem;
-
-}
-
-/* CSS Media Query */
-@media (max-width: 500px) {
-    body {
-        color: var(--secondaryText);
-
-    }    
+button
+{
+    color: var(--btnText);
+    background-color: var(--btnColor);
 }
