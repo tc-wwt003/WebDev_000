@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The input pattern attribute</h1>
+
+<form action="http://localhost:8085" method="post">
+  <label get="country_code">Country code:</label>
+  <input type="text" id="country_codes" name="country_code" pattern="[A-Za-z]{3}" title="Three letter country code"><br><br>
+  <input type="submit">
+</form>
+
+<p><strong>Note:</strong> The pattern attribute of the input tag is not supported in Safari 10 (or earlier).</p>
+
+<fieldset> <!-- I added the fieldset and legend...just goofin' er um ... testing :P -->
+<legend>Name & EMail</legend>
+<form action="http://localhost:8085" method="post">
+  Name:  <input type="text" name="username" /><br />
+  Email: <input type="text" name="email" /><br />
+  <input type="submit" name="submit" value="Submit me!" />
+</form>
+</fieldset>
+
+</body>
+</html>
