@@ -1,4 +1,4 @@
-console.log('Hello World');
-console.error('This is an error');
-console.warn('This is a warning');
-document.write('!!!Hello World!!!!')
+
+
+
+navigator.geolocation.getCurrentPosition(function(result) {var lon=result.coords.longitude; var lat=result.coords.latitude;});
