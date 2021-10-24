@@ -6,7 +6,7 @@
     --borderColor:#c1c1c1;
 
     --mainText:whitesmoke;
-    --secondaryText:#4b5156;
+    --secondaryText:#008cff;
 
     --themeDotBorder:#24292e;
 
@@ -40,6 +40,23 @@ body
     padding: 0;
     margin: 0;
     color: var(--mainText);
+    
+}
+
+h1, h3 {
+    color: var(--secondaryText);
+
+}
+
+a:link, a:visited {
+    color: var(--secondaryText);
+    text-decoration: underline;
+    cursor: auto;
+
+}
+
+a:link:active, a:visited:active {
+    color: yellowgreen;
     
 }
 
