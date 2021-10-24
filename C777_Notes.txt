@@ -38,8 +38,12 @@ Book:
 ------------------------------
 Module 13: Variables, Expressions, and Operators: Introduction (pg. 64-68)
     Unit 3: JavaScript
-    
+    `
 Module 28: Validate Forms (pg. 130-135)
     Unit 5: Forms
     Using HTML5 Attributes for User Input Validation
     Validate Forms: Summary
+
+
+
+https://wgu-nx.acrobatiq.com/en-us/courseware/page/wgu_C777_01mar21_web_dev_applications_1/wbp_drag_and_drop_web_pages
