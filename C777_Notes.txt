@@ -25,3 +25,25 @@ Live Events Calendar:
 
 
 This is a Test.
+
+
+C777 Study Guide - https://srm--c.na127.visual.force.com/apex/coursearticle?Id=kA03x000000l9D8CAI
+
+C779 Videos & Recorded Live Sessions - https://srm--c.na127.visual.force.com/apex/coursearticle?Id=kA00c000000YhbICAS
+    session 4 - https://wgu.webex.com/wgu/lsr.php?RCID=d1ad1ee48c291deeb1aae5386ebcbfcd 
+
+
+
+Book:
+------------------------------
+Module 13: Variables, Expressions, and Operators: Introduction (pg. 64-68)
+    Unit 3: JavaScript
+    `
+Module 28: Validate Forms (pg. 130-135)
+    Unit 5: Forms
+    Using HTML5 Attributes for User Input Validation
+    Validate Forms: Summary
+
+
+
+https://wgu-nx.acrobatiq.com/en-us/courseware/page/wgu_C777_01mar21_web_dev_applications_1/wbp_drag_and_drop_web_pages
