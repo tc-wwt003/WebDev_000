@@ -60,6 +60,16 @@ a:link:active, a:visited:active {
     
 }
 
+#calcForm {
+    background-color: blanchedalmond;
+    color: yellowgreen;
+}
+
+.calcForm {
+    background-color: whitesmoke;
+    color: var(--secondaryText);
+}
+
 mark {
     background-color: yellowgreen;
     color: black;

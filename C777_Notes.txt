@@ -47,3 +47,23 @@ Module 28: Validate Forms (pg. 130-135)
 
 
 https://wgu-nx.acrobatiq.com/en-us/courseware/page/wgu_C777_01mar21_web_dev_applications_1/wbp_drag_and_drop_web_pages
+
+----- ----- ----- ----- -----
+Unit 5 : Module 23 (pg.111-115)
+
+What are the technical considerations when using more than one form on a page?
+ - Cannot be nested.
+Which form elements or attributes are important for supporting assistive software?
+ - Use of the for attribute to accomodate screen readers.
+How can an email input be configured to accept multiple email addresses?
+ - use the mutiple attribute with the email type.
+On mobile devices, what keyboard differences exist for a tel input compared to a number input?
+ - a numeric keypad is displayed as opposed to the alpha-numeric
+With all these new HTML5 input types, is the basic text input type still useful?
+ - of course
+Can browsers be relied upon to all handle the HTML5 input types in a consistent way?
+ - no
+
+
+Unit 6 : (pg.137)
+
